@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_button_compteurs">Compteur</string>
+    <string name="text_button_stats">Stats</string>
+    <string name="book_of_life">Book Of Life</string>
+    
+</resources>
